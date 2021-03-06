@@ -1,0 +1,115 @@
+
+.barraSuperior{
+	height: 200px;
+	margin-top: 10px;
+}
+
+.senhaAtual{
+	text-align: center;
+	background-color: #003a5f;
+	color: white;
+	margin-top: 0px;
+}
+
+.senhaAtualTexto{
+	font-size: 65pt;
+	font-weight: 400;
+}
+
+#senhaAtualNumero{
+	font-size: 100pt;
+	font-weight: 800;
+}
+
+.ultimaSenha{
+	font-weight: 800;
+	text-align: center;
+	background-color: #ccc;
+	height: 130px;
+	margin-top: 20px;
+}
+
+#ultimaSenhaTexto{
+	font-size: 20px;
+	color: #a50;
+}
+
+#ultimaSenhaNumero{
+	font-size: 40px;
+	color: black;
+}
+
+.logo{
+	max-width: 300px;
+}
+
+.uespiTexto{
+	font-size: 27pt;
+	font-weight: 800;
+	color: #003a5f;
+}
+
+.subtitulo{
+	font-size: 30px;
+	font-weight: 400;
+}
+
+audio{
+	display: none;
+}
+.baixo{
+	display: flex;
+}
+
+.senha1, .senha2, .senha3, .senha4{
+	width: 25%;
+	background-color: #d1d1d1;
+	margin: 10px;
+	text-align: center;
+	border-radius: 20px;
+}
+.senhaAtual{
+	border-radius: 20px;
+}
+
+.ultima{
+	font-weight: bolder;
+	opacity: 80%;
+	position: relative;
+	font-size: 40px;
+	left: 35%;
+	margin: 10px;
+	color: black;
+}
+
+.geral{
+	display: flex;
+	font-size: 40px;
+}
+.prioritario{
+	color: white;
+	font-weight: bolder;
+	text-align: center;
+	border-radius: 20px;
+	margin: 30px;
+	width: 40%;
+	background-color: #2f2d85;
+	padding: 40px;
+}
+.normal{
+	font-weight: bolder;
+	text-align: center;
+	color: black;
+	border-radius: 20px;
+	margin: 30px;
+	width: 40%;
+	background-color: #d1d1d1;
+	padding: 40px;
+}
+.textoSenha{
+	position: relative;
+	left: 37%;
+	font-size: 30px;
+	font-weight: bolder;
+	color: black;
+}
